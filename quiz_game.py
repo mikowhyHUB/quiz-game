@@ -32,5 +32,5 @@ answer = input(
 if answer.lower() == 'c':
     score += 2
 
-print('You got', score, 'questions correct!')
+print('You got', score, 'questions correct!!')
 print('You got', (score/7)*100, '% correct answears!')
